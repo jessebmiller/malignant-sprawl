@@ -1,14 +1,14 @@
 # The Malignant Sprawl
 
+## Introduction
+
+Read the following to the explorers.
+
 A structure of human city infrastructure stretching indeffinitely in four
 dimensions. Too big and too old for any native culture to form the concept of
 "outside". Rebuilding, however, is a concept that is everpresent. Too
 frequently, maintinance and restructuring operations obsessively rebuild for no
 immediate human need.
-
-## Introduction
-
-Read the above description to the explorers.
 
 Ask them:
 
@@ -21,7 +21,7 @@ Return to and build on their answers as they explore.
 For each explorer, roll and tell them their name.
 
 | 1d12 | name |
----------------
+|------|------|
 |1|Iybyrn|
 |2|Speest|
 |3|Urnya'|
